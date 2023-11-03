@@ -1,4 +1,4 @@
-"""Play Life with a single glider."""
+"""Play Life with single glider."""
 import life
 
 g = life.Game(20)

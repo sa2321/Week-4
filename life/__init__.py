@@ -1,4 +1,4 @@
-"""An Implementation of Conway's Game of Life."""
+"""An Implementation of Conways Game of Life."""
 import numpy as np
 from matplotlib import pyplot
 from scipy.signal import convolve2d
